@@ -4,7 +4,7 @@ This is a simple game where two people can play this game every time a user roll
 
 ## Demo
 
-<a href="https://giri2103.github.io/DiceGame/"></a>
+<a href="https://giri2103.github.io/DiceGame/">Demo</a>
 
 ## Screenshot
 
